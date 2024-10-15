@@ -5,14 +5,12 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm Uma S",
     animated: {
         first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
+        second: "Developer",
+        third: "Fron-end Developer",
         fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
@@ -55,23 +53,19 @@ const skills = [{
     },
     
     {
-        name: "Bash",
+        name: "HTML",
     },
 
     {
-        name: "Powershell",
+        name: "CSS",
     },
 
     {
-        name: "Reverse Engineering",
+        name: "JS",
     },
 
     {
-        name: "Web-Exploitation",
-    },
-
-    {
-        name: "Network Exploitation",
+        name: "UI/UX",
     },
 ];
 
@@ -139,7 +133,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "test@test.com",
+    YOUR_EMAIL: "umasomu15@gmail.com",
     description: "Looking forward to hearing from you!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -149,8 +143,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
-    linkedin: "https://linkedin.com/",
+    github: "https://github.com/umasomu15",
+    linkedin: "https://www.linkedin.com/in/uma-s-",
 };
 export {
     meta,
