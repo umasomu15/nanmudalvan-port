@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/umasomu15/nanmudalvan-port.git/static/css/main.6b9b6197.css",
-    "main.js": "/umasomu15/nanmudalvan-port.git/static/js/main.a78c5e40.js",
-    "index.html": "/umasomu15/nanmudalvan-port.git/index.html"
+    "main.css": "/nanmudalvan-port/static/css/main.6b9b6197.css",
+    "main.js": "/nanmudalvan-port/static/js/main.b1c475a5.js",
+    "index.html": "/nanmudalvan-port/index.html"
   },
   "entrypoints": [
     "static/css/main.6b9b6197.css",
-    "static/js/main.a78c5e40.js"
+    "static/js/main.b1c475a5.js"
   ]
 }
